@@ -54,7 +54,6 @@ module.exports = {
               },
             },
           },
-          'group-css-media-queries-loader',
           {
             loader: 'resolve-url-loader',
           },
